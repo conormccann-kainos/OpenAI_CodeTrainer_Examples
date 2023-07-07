@@ -1,0 +1,15 @@
+
+{
+  "name": "functions",
+  "version": "1.0.0",
+  "description": "Functions training material",
+  "main": "correct.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
